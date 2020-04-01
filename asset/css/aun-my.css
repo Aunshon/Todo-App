@@ -1,0 +1,11 @@
+.aun-hide-it {
+    display: none;
+}
+
+.aun-show-it {
+    display: block;
+}
+
+.aun-strik {
+    text-decoration: line-through;
+}
